@@ -1,0 +1,19 @@
+{
+    "name": "huchao/simhash",
+    "description": "php实现的simhash算法",
+    "type": "library",
+    "require": {
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "huchao06",
+            "email": "huchao06@baidu.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "simhash\\": "src/"
+        }
+    }
+}
